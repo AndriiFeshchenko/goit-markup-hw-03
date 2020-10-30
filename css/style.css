@@ -45,6 +45,8 @@ img {
 .container-features-main {
   width: 1170px;
   height: 101px;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .container-nav {
@@ -338,6 +340,8 @@ img {
   margin-top: 0;
   margin-bottom: 0;
   list-style: none;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .section-features {
